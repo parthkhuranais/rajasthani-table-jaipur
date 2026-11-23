@@ -14,3 +14,11 @@ The header illustration and the laal maas image are AI-generated placeholders (n
 ## Preview locally
 Open `index.html` in a browser, or run `python -m http.server` in this folder and visit http://localhost:8000.
 All paths are relative, so it works on GitHub Pages at `https://<username>.github.io/<repo>/`.
+
+## Photo credits (not shown on the site right now)
+Remove or replace these photos before a real launch, or put the credits back in the page footer (Creative Commons BY-SA requires credit):
+- Rajasthani thali: Connie Ma, CC BY-SA 2.0, https://commons.wikimedia.org/wiki/File:Rajasthani_thali_(13041306695).jpg
+- Ker sangri: AKSHRAJJODHA, CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:Ker_Sangri.jpg
+- Karauli courtyard: Jitendra Sharma, CC BY-SA 3.0, https://commons.wikimedia.org/wiki/File:City_palace_of_Karouli.JPG
+- Hawa Mahal: Chainwit., CC BY-SA 4.0, https://commons.wikimedia.org/wiki/File:East_facade_Hawa_Mahal_Jaipur_from_ground_level_(July_2022)_-_img_01.jpg
+- AI-generated (Codex): hero.webp, laalmaas.webp, dalbaati.webp
