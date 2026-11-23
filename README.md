@@ -9,7 +9,7 @@ A two-page, mobile-first starter website (plain HTML/CSS/JS, no build step) for 
 - Search for `TODO` to find everything that needs real details (address, Maps link, timings, hosts' story, photos).
 
 ## Images
-No AI-generated or stock photos are included; the site uses CSS/SVG placeholders. Replace them with real photos of the family's kitchen and dishes. (If AI-generated placeholder images are ever added, they are not photos of the actual home or food.)
+The header illustration and the laal maas image are AI-generated placeholders (not photos of the family's home or food); replace them with real photos. Other photos come from Wikimedia Commons under Creative Commons licences (CC BY-SA) and are credited in each page footer: keep those credits if you keep the photos. Replace any of them with your own photos of the family's kitchen and dishes when ready.
 
 ## Preview locally
 Open `index.html` in a browser, or run `python -m http.server` in this folder and visit http://localhost:8000.
